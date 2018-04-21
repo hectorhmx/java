@@ -1,0 +1,3 @@
+class Tigre extends Carnivoro{
+
+}

@@ -1,0 +1,3 @@
+class Filosofo implements Runnable{
+
+}

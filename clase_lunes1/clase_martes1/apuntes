@@ -1,0 +1,9 @@
+clases wrapper o envolventes
+Permiten manejar los datos primitivos como objetos
+Integer i = new Integer("10");
+Bolean, Double, etc
+principales metodos:
+
+parseInt(String s) convierte de string a Int
+boxing de int a Integer
+unboxing Integer a int 
